@@ -27,3 +27,4 @@ console.log(increment);
 increment **= 2;
 console.log(exponentation);
 console.log(increment);
+consol
